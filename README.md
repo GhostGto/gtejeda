@@ -1,10 +1,10 @@
-# DevOps Portfolio - Gustavo Tejeda
+# Gustavo Tejeda
 
 A modern, responsive portfolio website built with Next.js 15, showcasing my journey and expertise in DevOps, Cloud Engineering, and Site Reliability Engineering.
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [Your Portfolio URL]
+Visit the live portfolio: [ghostgtos-projects.vercel.app](https://gtejeda-3ep8k1pyg-ghostgtos-projects.vercel.app/)
 
 ## 👨‍💻 About
 
