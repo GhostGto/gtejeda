@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with Next.js 15, showcasing my jour
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [ghostgtos-projects.vercel.app](https://gtejeda-3ep8k1pyg-ghostgtos-projects.vercel.app/)
+Visit the live portfolio: [https://gtejeda.vercel.app/] 
 
 ## 👨‍💻 About
 
